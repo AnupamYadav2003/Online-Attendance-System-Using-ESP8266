@@ -1,5 +1,26 @@
-**Smart RFID-Based Attendance System | Personal Project**
+# 📡 Smart RFID-Based Attendance System
 
-• Built an RFID-based attendance system using ESP8266, RC522 reader, RFID Card and Tag.
+## 📌 Project Description
+This project is an RFID-based attendance system designed using ESP8266 and RFID technology. It enables automatic attendance marking when a valid RFID card is scanned.
 
-• Programmed real-time authentication and display logic using embedded C.
+## 🔧 Components Used
+- RFID Reader (RC522)
+- RFID Cards/Tags
+- Breadboard
+- Jumper Wires
+- ESP8266
+
+## ⚙️ Features
+- Automatic attendance marking
+- Real-time card validation
+- Fast and reliable scanning
+
+## 🧠 Technologies Used
+- Arduino IDE
+- SPI Communication
+- Serial Communication
+
+## 🧾 How It Works
+1. Power on the system.
+2. Scan the RFID card.
+3. If authorized, attendance is marked.
